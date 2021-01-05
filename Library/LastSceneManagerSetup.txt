@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/ChinarDemo/Example-Operational Character/06-SelectMany/06-SelectMany.unity
-  isLoaded: 1
-  isActive: 1
