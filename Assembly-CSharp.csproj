@@ -78,6 +78,8 @@
      <Compile Include="Assets\ChinarDemo\Example\8-Login-Register\ChinarRxRegister.cs" />
      <Compile Include="Assets\ChinarDemo\Example\9-Trigger\ChinarRxApi.cs" />
      <Compile Include="Assets\ChinarTest.cs" />
+     <Compile Include="Assets\Demo\01 Introduction\Introduction.cs" />
+     <Compile Include="Assets\Demo\02 Network Operations\NetworkOperations.cs" />
      <None Include="Assets\StreamingAssets\Administrative staff.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/58329/UnityProjects/Tutorial--UniRX/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
